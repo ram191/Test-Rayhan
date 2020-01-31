@@ -1,0 +1,11 @@
+C:\Users\ali_r\source\repos\Test-Rayhan\Test-Rayhan\bin\Debug\netcoreapp2.1\Test-Rayhan.deps.json
+C:\Users\ali_r\source\repos\Test-Rayhan\Test-Rayhan\bin\Debug\netcoreapp2.1\Test-Rayhan.runtimeconfig.json
+C:\Users\ali_r\source\repos\Test-Rayhan\Test-Rayhan\bin\Debug\netcoreapp2.1\Test-Rayhan.runtimeconfig.dev.json
+C:\Users\ali_r\source\repos\Test-Rayhan\Test-Rayhan\bin\Debug\netcoreapp2.1\Test-Rayhan.dll
+C:\Users\ali_r\source\repos\Test-Rayhan\Test-Rayhan\bin\Debug\netcoreapp2.1\Test-Rayhan.pdb
+C:\Users\ali_r\source\repos\Test-Rayhan\Test-Rayhan\obj\Debug\netcoreapp2.1\Test-Rayhan.csprojAssemblyReference.cache
+C:\Users\ali_r\source\repos\Test-Rayhan\Test-Rayhan\obj\Debug\netcoreapp2.1\Test-Rayhan.csproj.CoreCompileInputs.cache
+C:\Users\ali_r\source\repos\Test-Rayhan\Test-Rayhan\obj\Debug\netcoreapp2.1\Test-Rayhan.AssemblyInfoInputs.cache
+C:\Users\ali_r\source\repos\Test-Rayhan\Test-Rayhan\obj\Debug\netcoreapp2.1\Test-Rayhan.AssemblyInfo.cs
+C:\Users\ali_r\source\repos\Test-Rayhan\Test-Rayhan\obj\Debug\netcoreapp2.1\Test-Rayhan.dll
+C:\Users\ali_r\source\repos\Test-Rayhan\Test-Rayhan\obj\Debug\netcoreapp2.1\Test-Rayhan.pdb
